@@ -31,16 +31,16 @@ Altro esempio più informale: la locuzione **all’italiana**[^1]. Questa presen
 
 allora la connotazione è prevalentemente positiva:
 
-- <i class="fas fa-plus-square" style=”color:green”></i> commedia all’italiana
-- <i class="fas fa-plus-square" style=”color:green”></i> giardino all’italiana
-- <i class="fas fa-plus-square" style=”color:green”></i> western all’italiana
-- <i class="fas fa-plus-square" style=”color:green”></i> caffè all’italiana
+- <i class="fas fa-plus-square" style="color:green"></i> commedia all’italiana
+- <i class="fas fa-plus-square" style="color:green"></i> giardino all’italiana
+- <i class="fas fa-plus-square" style="color:green"></i> western all’italiana
+- <i class="fas fa-plus-square" style="color:green"></i> caffè all’italiana
 
 Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azioni relative a campi semantici quali la politica, l’economia, etc… allora la connotazione diventa negativa, ad indicare “qualcosa che funziona male o viene svolto superficialmente”:
 
-- <i class="fas fa-minus-square" style=”color:red”></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo letruppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
-- <i class="fas fa-minus-square" style=”color:red”></i> Tipico del **giornalismo all'italiana**: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo
-- <i class="fas fa-minus-square" style=”color:red”></i> Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto **fai-da-te all'italiana**: il 16,4% si porta il cibo da casa.
+- <i class="fas fa-minus-square" style="color:red></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo letruppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
+- <i class="fas fa-minus-square" style="color:red"></i> Tipico del **giornalismo all'italiana**: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo
+- <i class="fas fa-minus-square" style="color:red"></i> Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto **fai-da-te all'italiana**: il 16,4% si porta il cibo da casa.
 
 
 [potremmo aggiungere proprio l’esempio celeberrimo/famigerato o altro con degli screen da voyant o altro in cui si vedono i contesti?]
