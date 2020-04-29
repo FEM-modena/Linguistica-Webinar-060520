@@ -25,11 +25,7 @@ Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “b
 ## Testo scritto e prosodia semantica: un approccio linguistico
 
 Eppure per scrivere un “buon testo” non basta rispettare tutte le condizioni di testualità: è anche necessario saper esprimere le giuste connotazioni e accezioni di significato, un fenomeno che in linguistica chiamiamo **prosodia semantica**. Pensiamo al caso degli aggettivi *celeberrimo* e *famigerato*: entrambi esprimono l’idea di qualcosa di “famoso, celebre”, ma *celeberrimo* ha una connotazione prevalentemente positiva, mentre *famigerato* prevalentemente negativa.
-Altro esempio più informale: la locuzione **all’italiana**[^1]. Questa presenta sia connotazione positiva sia negativa, ognuna delle quali dipendente dall’ “oggetto” in questione. Quando si tratta di 
-
->  manifestazioni culturali che contraddistinguono una nazione, in questo caso l’Italia, e ne evidenziano un certo stile e certe modalità d’espressione
-
-allora la connotazione è prevalentemente positiva:
+Altro esempio più informale: la locuzione **all’italiana**[^1].  Questa presenta sia connotazione positiva sia negativa, ognuna delle quali dipendente dall’ “oggetto” in questione. Quando si tratta di “manifestazioni culturali che contraddistinguono una nazione, in questo caso l’Italia, e ne evidenziano un certo stile e certe modalità d’espressione”[^1], allora la connotazione è prevalentemente positiva:
 
 - <i class="fas fa-plus-square" style="color:green"></i> commedia all’italiana
 - <i class="fas fa-plus-square" style="color:green"></i> giardino all’italiana
