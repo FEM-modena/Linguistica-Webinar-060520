@@ -38,7 +38,7 @@ allora la connotazione è prevalentemente positiva:
 
 Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azioni relative a campi semantici quali la politica, l’economia, etc… allora la connotazione diventa negativa, ad indicare “qualcosa che funziona male o viene svolto superficialmente”:
 
-- <i class="fas fa-minus-square" style="color:red></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo letruppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
+- <i class="fas fa-minus-square" style="color:red"></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo letruppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
 - <i class="fas fa-minus-square" style="color:red"></i> Tipico del **giornalismo all'italiana**: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo
 - <i class="fas fa-minus-square" style="color:red"></i> Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto **fai-da-te all'italiana**: il 16,4% si porta il cibo da casa.
 
