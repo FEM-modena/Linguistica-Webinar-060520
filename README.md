@@ -25,7 +25,7 @@ Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “b
 ## Testo scritto e prosodia semantica: un approccio linguistico
 
 Eppure per scrivere un “buon testo” non basta rispettare tutte le condizioni di testualità: è anche necessario saper esprimere le giuste connotazioni e accezioni di significato, un fenomeno che in linguistica chiamiamo **prosodia semantica**. Pensiamo al caso degli aggettivi *celeberrimo* e *famigerato*: entrambi esprimono l’idea di qualcosa di “famoso, celebre”, ma *celeberrimo* ha una connotazione prevalentemente positiva, mentre *famigerato* prevalentemente negativa.
-Altro esempio più informale: la locuzione **all’italiana**[^1].  Questa presenta sia connotazione positiva sia negativa, ognuna delle quali dipendente dall’ “oggetto” in questione. Quando si tratta di “manifestazioni culturali che contraddistinguono una nazione, in questo caso l’Italia, e ne evidenziano un certo stile e certe modalità d’espressione”[^1], allora la connotazione è prevalentemente positiva:
+Altro esempio più informale: la locuzione **all’italiana**[^1]. Questa presenta sia connotazione positiva sia negativa, ognuna delle quali dipendente dall’ “oggetto” in questione. Quando si tratta di “manifestazioni culturali che contraddistinguono una nazione, in questo caso l’Italia, e ne evidenziano un certo stile e certe modalità d’espressione”[^1], allora la connotazione è prevalentemente positiva:
 
 - <i class="fas fa-plus-square" style="color:green"></i> commedia all’italiana
 - <i class="fas fa-plus-square" style="color:green"></i> giardino all’italiana
@@ -34,24 +34,23 @@ Altro esempio più informale: la locuzione **all’italiana**[^1].  Questa prese
 
 Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azioni relative a campi semantici quali la politica, l’economia, etc… allora la connotazione diventa negativa, ad indicare “qualcosa che funziona male o viene svolto superficialmente”:
 
-- <i class="fas fa-minus-square" style="color:red"></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo letruppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
+- <i class="fas fa-minus-square" style="color:red"></i> auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo le truppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
 - <i class="fas fa-minus-square" style="color:red"></i> Tipico del **giornalismo all'italiana**: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo
 - <i class="fas fa-minus-square" style="color:red"></i> Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto **fai-da-te all'italiana**: il 16,4% si porta il cibo da casa.
 
-
-[potremmo aggiungere proprio l’esempio celeberrimo/famigerato o altro con degli screen da voyant o altro in cui si vedono i contesti?]
 [io metterei anche uno screenshot da doccano con la preview delle nuove etichette così facciam vedere come la prosodia può essere applicata anche a metafore etc]
 
-@@@ magico testo che produrrà matteo @@@
 
-## La correzione @@@
--- schema che unisce categorie di sopra + prosodia che si traduce in uno schema per fare esercizi ma anche come griglia di valutazione e autovalutazione.
+## Strategie per una didattica della scrittura efficace: la scrittura collaborativa
+
+Scrivere è un’attività faticosa, nella quale lo studente è chiamato a mettere in campo competenze cognitive complesse quali la capacità di analisi, riflessione e pianificazione strutturata dei contenuti. 
+Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme opportunità, offrendoci un approccio diverso alla didattica della scrittura. Gli strumenti digitali infatti, come quelli presenti nella **GSuite**, consentono a docenti e studenti di lavorare sul **processo** di scrittura, che diventa visibile e analizzabile in tutti i passaggi grazie alle “versioni” dei documenti. Inoltre, collaborare alla stesura di un testo permette di approfondire non solo le competenze di scrittura, ma anche di lettura, attraverso un processo di peer-review in cui gli studenti-autori sono anche studenti-lettori. Infine, la possibilità di commentare “in tempo reale” i testi invita lo studente ad una costante riflessione metalinguistica e sul testo, grazie al supporto dei docenti e della classe.
+
+## La correzione [DA COMPLETARE]
+La chiave per scrivere bene la conosciamo tutti, ed è sicuramente la pratica costante. Ma c’è anche bisogno di metodi di **correzione** efficaci. Noi vi facciamo una proposta che unisce le condizioni di testualità con la prosodia semantica. Adottando questa griglia  di sopra + prosodia che si traduce in uno schema per fare esercizi ma anche come griglia di valutazione e autovalutazione.
 -- il discorso da far passare per la correzione è: ha senso correggere mentre lo studente sta scrivendo, non dopo. 
 -- Lato studenti la griglia di autovalutazione di cui parlavamo sopra potrebbe essere utilissima, tipo i prof potrebbero dargliela di default nel file in cui devono scrivere il testo e prima di consegnarglielo devono “svolgere l’esercizio” sul loro stesso testo.
 
-## Strategie per una didattica della scrittura efficace: la scrittura collaborativa
-Scrivere è un’attività faticosa, nella quale lo studente è chiamato a mettere in campo competenze cognitive complesse quali la capacità di analisi, riflessione e pianificazione strutturata dei contenuti. 
-Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme opportunità, offrendoci un approccio diverso alla didattica della scrittura. Gli strumenti digitali infatti, come quelli presenti nella **GSuite**, consentono a docenti e studenti di lavorare sul **processo** di scrittura, che diventa visibile e analizzabile in tutti i passaggi grazie alle “versioni” dei documenti. Inoltre, collaborare alla stesura di un testo permette di approfondire non solo le competenze di scrittura, ma anche di lettura, attraverso un processo di peer-review in cui gli studenti-autori sono anche studenti-lettori. Infine, la possibilità di commentare “in tempo reale” i testi invita lo studente ad una costante riflessione metalinguistica e sul testo, grazie al supporto dei docenti e della classe.
 
 ## Strategie per una didattica della scrittura efficace: l’annotazione
 
@@ -60,25 +59,8 @@ Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme oppor
 
 ## Riferimenti bibliografici
 
-* De Beaugrande, R.-A. e Dressler, W. U. (1981), Introduzione alla linguistica testuale, trad. it. Bologna, Il Mulino, 1984.
-* Stewart, D. (2010). Semantic Prosody. New York: Routledge, https://doi.org/10.4324/9780203870075
-* Hunston, Susan. (2007). Semantic prosody revisited. International Journal of Corpus Linguistics. 122. 249-268. 10.1075/ijcl.12.2.09hun. 
-*   McGee, I. (2012). Should We Teach Semantic Prosody Awareness? RELC Journal, 43(2), 169–186. https://doi.org/10.1177/0033688212449485
-*  Bellinzani, D. (2014). La scrittura collaborativa: lo stato della ricerca e uno studio di caso italiano. LinguaDue, 1. 
-* 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+* De Beaugrande, R.-A. e Dressler, W. U. (1981), *Introduzione alla linguistica testuale*, trad. it. Bologna, Il Mulino, 1984.
+* Stewart, D. (2010). *Semantic Prosody*. New York: Routledge, https://doi.org/10.4324/9780203870075
+* Hunston, Susan. (2007). *Semantic prosody revisited*. International Journal of Corpus Linguistics. 122. 249-268. 10.1075/ijcl.12.2.09hun. 
+*   McGee, I. (2012). *Should We Teach Semantic Prosody Awareness?* RELC Journal, 43(2), 169–186. https://doi.org/10.1177/0033688212449485
+*  Bellinzani, D. (2014). *La scrittura collaborativa: lo stato della ricerca e uno studio di caso italiano*. LinguaDue, 1. 
