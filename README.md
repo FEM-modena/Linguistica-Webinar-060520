@@ -22,9 +22,9 @@ Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “b
 
 A partire da queste sette caratteristiche, abbiamo sviluppato un percorso di *attivazione* delle competenze di analisi linguistica, propedeutiche alla produzione di testi scritti. Abbiamo dunque “tradotto” le sette caratteristiche in tre elementi:
 
-* Grammatica: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
-* Lessico: elemento derivato dal concetto di *informatività* (de Beaugrande); questo elemento è composto da due etichette, *parole attese* e *parole inattese*, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.
-* Connotazione: elemento derivato dal concetto di *prosodia semantica*, che va ad aggiungersi alle 7 caratteristiche individuate dalla *Linguistica Testuale*; è messo in pratica attraverso due etichette per evidenziare connotazione positiva e connotazione negativa.
+* <i class="fas fa-spell-check" style="color:blue"></i> Grammatica: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
+* <i class="fas fa-sort-alpha-down" style="color:purple"></i> Lessico: elemento derivato dal concetto di *informatività* (de Beaugrande); questo elemento è composto da due etichette, *parole attese* e *parole inattese*, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.
+* <i class="fas fa-plus-square" style="color:green"></i>/<i class="fas fa-minus-square" style="color:red"></i>  Connotazione: elemento derivato dal concetto di *prosodia semantica*, che va ad aggiungersi alle 7 caratteristiche individuate dalla *Linguistica Testuale*; è messo in pratica attraverso due etichette per evidenziare connotazione positiva e connotazione negativa.
 
 
 Il percorso in 3 passaggi permette l'identificazione e l’analisi di caratteristiche formali e strutturali centrali al testo, e propedeutiche alla creazione di un testo (in termini di struttura interna e di vocabolario, adeguatezza del testo all’interno del contesto comunicativo, livello di difficoltà del testo rispetto a conoscenze pregresse su un dato argomento).
@@ -73,7 +73,8 @@ A <a href="" target="_blank"> </a>
 ### Testo letterario
 <a href="" target="_blank"> </a>
 
-### Esercizi avanzati
+### Attività aggiuntive
+A partire dagli esercizi che vi abbiamo proposto, ecco due attività aggiuntive che potete fare con i vostri studenti sul modello del *Debate* per lavorare su:
 
 Debate | video
 Debate | uso di parole inaspettate
@@ -94,21 +95,3 @@ Scrivere perché l’annotazione è utile all’attività di produzione di testi
 * Hunston, Susan (2007). *Semantic prosody revisited*. International Journal of Corpus Linguistics. 122. 249-268.  <a href="https://www.researchgate.net/publication/228929277_Semantic_prosody_revisited" rel="" target="_blank">Link all’articolo</a> 
 * McGee, I. (2012). *Should We Teach Semantic Prosody Awareness?* RELC Journal, 43(2), 169–186. <a href="https://doi.org/10.1177/0033688212449485" rel="" target="_blank">Link all’articolo</a>
 * Stewart, D. (2010). *Semantic Prosody*. New York: Routledge. <a href="https://doi.org/10.4324/9780203870075" rel="" target="_blank">Link al sito</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
