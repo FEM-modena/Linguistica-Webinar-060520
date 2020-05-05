@@ -22,9 +22,9 @@ Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “b
 
 A partire da queste sette caratteristiche, abbiamo sviluppato un percorso di *attivazione* delle competenze di analisi linguistica, propedeutiche alla produzione di testi scritti. Abbiamo dunque “tradotto” le sette caratteristiche in tre elementi:
 
-* <i class="fas fa-spell-check" style="color:blue"></i> Grammatica: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
-* <i class="fas fa-sort-alpha-down" style="color:purple"></i> Lessico: elemento derivato dal concetto di *informatività* (de Beaugrande); questo elemento è composto da due etichette, *parole attese* e *parole inattese*, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.
-* <i class="fas fa-plus-square" style="color:green"></i>/<i class="fas fa-minus-square" style="color:red"></i>  Connotazione: elemento derivato dal concetto di *prosodia semantica*, che va ad aggiungersi alle 7 caratteristiche individuate dalla *Linguistica Testuale*; è messo in pratica attraverso due etichette per evidenziare connotazione positiva e connotazione negativa.
+1. <i class="fas fa-spell-check" style="color:blue"></i> Grammatica: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
+2. <i class="fas fa-sort-alpha-down" style="color:purple"></i> Lessico: elemento derivato dal concetto di *informatività* (de Beaugrande); questo elemento è composto da due etichette, *parole attese* e *parole inattese*, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.
+3. <i class="fas fa-plus-square" style="color:green"></i>/<i class="fas fa-minus-square" style="color:red"></i>  Connotazione: elemento derivato dal concetto di *prosodia semantica*, che va ad aggiungersi alle 7 caratteristiche individuate dalla *Linguistica Testuale*; è messo in pratica attraverso due etichette per evidenziare connotazione positiva e connotazione negativa.
 
 
 Il percorso in 3 passaggi permette l'identificazione e l’analisi di caratteristiche formali e strutturali centrali al testo, e propedeutiche alla creazione di un testo (in termini di struttura interna e di vocabolario, adeguatezza del testo all’interno del contesto comunicativo, livello di difficoltà del testo rispetto a conoscenze pregresse su un dato argomento).
@@ -32,7 +32,7 @@ L’analisi permette inoltre di insegnare - in maniera “indiretta” - quelle 
 Per svolgere l’attività con GSuite abbiamo creato un <a href="https://drive.google.com/open?id=1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE" target="_blank"> template in bianco</a>, che può essere utilizzato - anche riadattandolo secondo le proprie necessità - per l’analisi di qualsiasi testo, sia letterario sia argomentativo. Nella sezione @@@@ abbiamo inoltre creato due schede di attività (uno con testo argomentativo, uno con testo letterario) già pronte per essere utilizzate in classe!
 Nel corso delle prossime settimane creeremo inoltre dei dataset sulla piattaforma  <a href="http://doccano.fem.digital/" target="_blank">doccano</a>, attraverso il quale sarà possibile svolgere l’attività di annotazione in maniera più fluida.
 
-> Quali sono le condizioni di testualità su cui i ragazzi hanno più difficoltà? Vorreste pensare insieme a delle attività sui connettivi testuali e sulle espressioni anaforiche? Scrivetecelo nella [nostra Classroom](#la-nostra-classroom)!
+> <i class="fas fa-question-circle" style="color:green"></i> Quali sono le condizioni di testualità su cui i ragazzi hanno più difficoltà? Vorreste pensare insieme a delle attività sui connettivi testuali e sulle espressioni anaforiche? Scrivetecelo nella [nostra Classroom](#la-nostra-classroom)!
 
 ## Testo scritto e prosodia semantica: un approccio linguistico
 
@@ -73,7 +73,7 @@ A <a href="" target="_blank"> </a>
 ### Testo letterario
 <a href="" target="_blank"> </a>
 
-### Attività aggiuntive
+### Un piccolo extra
 A partire dagli esercizi che vi abbiamo proposto, ecco due attività aggiuntive che potete fare con i vostri studenti sul modello del *Debate* per lavorare su:
 
 Debate | video
@@ -95,3 +95,21 @@ Scrivere perché l’annotazione è utile all’attività di produzione di testi
 * Hunston, Susan (2007). *Semantic prosody revisited*. International Journal of Corpus Linguistics. 122. 249-268.  <a href="https://www.researchgate.net/publication/228929277_Semantic_prosody_revisited" rel="" target="_blank">Link all’articolo</a> 
 * McGee, I. (2012). *Should We Teach Semantic Prosody Awareness?* RELC Journal, 43(2), 169–186. <a href="https://doi.org/10.1177/0033688212449485" rel="" target="_blank">Link all’articolo</a>
 * Stewart, D. (2010). *Semantic Prosody*. New York: Routledge. <a href="https://doi.org/10.4324/9780203870075" rel="" target="_blank">Link al sito</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
