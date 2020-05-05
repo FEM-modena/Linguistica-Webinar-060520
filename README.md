@@ -20,9 +20,9 @@ Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “b
 * La **situazionalità** è il grado di dipendenza del testo dalla situazione comunicativa, dal *contesto*.
 * L’**intertestualità** è il rapporto tra un testo e altri testi non presenti ma che svolgono una parte importante nell’interpretazione di quello preso in esame. 
 
-A partire da queste sette caratteristiche, abbiamo sviluppato un percorso di *attivazione* delle competenze di analisi linguistica, propedeutiche alla produzione di testi scritti. Abbiamo dunque “tradotto” le sette caratteristiche in tre elementi:
+A partire da queste sette caratteristiche, abbiamo sviluppato un percorso di *attivazione* delle competenze di analisi linguistica propedeutiche alla produzione di testi scritti. Il percorso è incentrato sull’analisi e la comprensione di **tre macro-caratteristiche**, che richiamano (e ampliano) le sette proposte da de Beaugrande:
 
-1. <i class="fas fa-spell-check" style="color:blue"></i> Grammatica: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
+1. <i class="fas fa-spell-check" style="color:blue"></i> <span style=“color:blue;”>Grammatica</span>: prende spunto dalla caratteristica di *coesione* (de Beaugrande), ed è messa in pratica attraverso l’uso di un’etichetta per l’annotazione. Successivamente, nello schema di @@@ dell’attività, lo studente riporterà i dettagli degli elementi grammaticali identificati.
 2. <i class="fas fa-sort-alpha-down" style="color:purple"></i> Lessico: elemento derivato dal concetto di *informatività* (de Beaugrande); questo elemento è composto da due etichette, *parole attese* e *parole inattese*, che permettono di rafforzare il vocabolario già noto e di ampliarlo con parole (e rispettivi usi) nuove.
 3. <i class="fas fa-plus-square" style="color:green"></i>/<i class="fas fa-minus-square" style="color:red"></i>  Connotazione: elemento derivato dal concetto di *prosodia semantica*, che va ad aggiungersi alle 7 caratteristiche individuate dalla *Linguistica Testuale*; è messo in pratica attraverso due etichette per evidenziare connotazione positiva e connotazione negativa.
 
@@ -55,29 +55,31 @@ Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azio
 ## Strategie per una didattica della scrittura efficace: la scrittura collaborativa
 
 Scrivere è un’attività faticosa, nella quale lo studente è chiamato a mettere in campo competenze cognitive complesse quali la capacità di analisi, riflessione e pianificazione strutturata dei contenuti. 
-Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme opportunità, offrendoci un approccio diverso alla didattica della scrittura. Gli strumenti digitali infatti, come quelli presenti nella **GSuite**, consentono a docenti e studenti di lavorare sul **processo** di scrittura, che diventa visibile e analizzabile in tutti i passaggi grazie alle “versioni” dei documenti. Inoltre, collaborare alla stesura di un testo permette di approfondire non solo le competenze di scrittura, ma anche di lettura, attraverso un processo di peer-review in cui gli studenti-autori sono anche studenti-lettori. Infine, la possibilità di commentare “in tempo reale” i testi invita lo studente ad una costante riflessione metalinguistica e sul testo, grazie al supporto dei docenti e della classe.
+Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme opportunità, offrendoci un approccio diverso alla didattica della scrittura. Gli strumenti digitali infatti, come quelli presenti nella **GSuite**, consentono a docenti e studenti di lavorare sul **processo** di scrittura, che diventa visibile e analizzabile in tutti i passaggi grazie alle “versioni” dei documenti. Inoltre, collaborare alla stesura di un testo permette di approfondire non solo le competenze di scrittura, ma anche di lettura, attraverso un processo di *peer-review* in cui gli studenti-autori sono anche studenti-lettori. Infine, la possibilità di commentare “in tempo reale” invita lo studente ad una costante riflessione metalinguistica sul testo, grazie al supporto dei docenti e della classe.
 
 ## La correzione [DA COMPLETARE]
 La chiave per scrivere bene la conosciamo tutti, ed è sicuramente la pratica costante. Ma c’è anche bisogno di metodi di **correzione** efficaci. Noi vi facciamo una proposta che unisce le condizioni di testualità con la prosodia semantica. Adottando questa griglia  di sopra + prosodia che si traduce in uno schema per fare esercizi ma anche come griglia di valutazione e autovalutazione.
--- il discorso da far passare per la correzione è: ha senso correggere mentre lo studente sta scrivendo, non dopo. 
+Fare esercizi *collaborativi* permette agli studenti e ai docenti di correggersi e correggere eventuali errori **on the spot**, proprio mentre si scrive.
+
 -- Lato studenti la griglia di autovalutazione di cui parlavamo sopra potrebbe essere utilissima, tipo i prof potrebbero dargliela di default nel file in cui devono scrivere il testo e prima di consegnarglielo devono “svolgere l’esercizio” sul loro stesso testo.
 
 ## Spunti per attività in classe
 
 ### Template GSuite per annotazione caratteristiche linguistiche
-Trovate a <a href="https://docs.google.com/document/d/1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE/edit?usp=sharing" target="_blank">questo link</a> un template in Google Docs contenente le istruzioni e lo schema di annotazione, senza alcun testo precaricato.
+Come mettere in pratica l’annotazione dei tre elementi (*grammatica*, *lessico*, *connotazione*) discussi fino ad ora? Abbiamo preparato un template in Google Docs contenente le istruzioni e lo schema di annotazione - senza alcun testo precaricato - che potete trovare (e scaricare, modificare, etc…) a <a href="https://docs.google.com/document/d/1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE/edit?usp=sharing" target="_blank">questo link</a>. Più sotto invece trovate delle schede attività già pronte, create usando il template di base.
 
 ### Testo argomentativo
-A <a href="" target="_blank"> </a>
+Da <a href="https://docs.google.com/document/d/14xnp7nbh7s1uCywox7Y1ynqZdbXyU-_76IfmwQDVMr8/edit?usp=sharing" target="_blank">questo link</a> puoi scaricare un template già pronto per un’attività didattica di annotazione di un brano argomentativo. Si tratta di un recente articolo - apparso su linkiesta.it - dal titolo *Strani giorni \| Runner, untori e il bisogno di odiare chi esce da casa*
 
 ### Testo letterario
-<a href="" target="_blank"> </a>
+Da <a href="https://docs.google.com/document/d/1ozf7iMGhbp8O1TMgm2ovMw2Lj4Yj6MoN2o-iiQKnoO8/edit?usp=sharing" target="_blank">questo link</a> puoi scaricare un template già pronto per un’attività didattica di annotazione di un brano tratto dal capitolo XXI de *I Promessi Sposi* (è lo stesso brano già utilizzato per l’attività di *Lettura a distanza* @@@mettere link al vecchio materiale, DOPO AVERLO AGGIORNATO!!@@@@ proposta nel mese di Aprile).
 
 ### Un piccolo extra
-A partire dagli esercizi che vi abbiamo proposto, ecco due attività aggiuntive che potete fare con i vostri studenti sul modello del *Debate* per lavorare su:
-
-Debate | video
+A partire dagli esercizi che vi abbiamo proposto, ecco due attività aggiuntive che potete fare con i vostri studenti sul modello del **Debate**:
+*Analisi di un testo argomentativo “a squadre” (potete utilizzare quello che vi abbiamo già preparato nel template). Gli studenti dibattono il tema dell’articolo, dividendosi tra chi è **pro** e chi è **contro**: come **output** finale, può essere registrato un video così da permettere agli studenti di rivedersi e riflettere sulle proprie capacità argomentative.
+*
 Debate | uso di parole inaspettate
+Perché non rafforzare il vocabolario 
 
 ## Strategie per una didattica della scrittura efficace: l’annotazione
 Scrivere perché l’annotazione è utile all’attività di produzione di testi scritti, quindi prenderla in maniera più ampia senza focalizzarsi troppo sull’annotazione “concreta”/pratica
@@ -95,21 +97,3 @@ Scrivere perché l’annotazione è utile all’attività di produzione di testi
 * Hunston, Susan (2007). *Semantic prosody revisited*. International Journal of Corpus Linguistics. 122. 249-268.  <a href="https://www.researchgate.net/publication/228929277_Semantic_prosody_revisited" rel="" target="_blank">Link all’articolo</a> 
 * McGee, I. (2012). *Should We Teach Semantic Prosody Awareness?* RELC Journal, 43(2), 169–186. <a href="https://doi.org/10.1177/0033688212449485" rel="" target="_blank">Link all’articolo</a>
 * Stewart, D. (2010). *Semantic Prosody*. New York: Routledge. <a href="https://doi.org/10.4324/9780203870075" rel="" target="_blank">Link al sito</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
