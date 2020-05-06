@@ -8,16 +8,6 @@
 Questo webinar fa parte di una programmazione più ampia, dedicata all’interazione tra linguistica e didattica in classe, e pensata per condividere e sviluppare attività, idee, suggerimenti, e per instaurare uno scambio di esperienze e necessità. Per questo abbiamo creato una piattaforma di discussione online: puoi accedere alla stanza dedicata di <a href="classroom.google.com/u/0/" target="_blank">Google Classroom</a>, utilizzando il codice **jdibcze**.
 Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui coinvolte, per poterci scambiare opinioni sulle attività e proposte inedite per temi, metodi e strumenti di lavoro a scuola. 
 
-## Scrivo, quindi leggo
-
-La linguistica cognitiva spiega - tra le tante cose di cui si occupa - i meccanismi attraverso i quali noi esseri umani apprendiamo il linguaggio (le parole, la sintassi, gli usi, i significati, etc…). Alla base di questo apprendimento c’è un fenomeno chiamato *entrenchment*, che può essere descritto in breve come
-
-> the ongoing reorganization and adaptation of communicative knowledge. Entrenchment posits that our linguistic knowledge is continuously refreshed and reorganized under the influence of social interactions. It is part of a larger, ongoing process of lifelong cognitive reorganization whose course and quality is conditioned by exposure to and use of language, and by the application of cognitive abilities and processes to language.[^2]
-
-> la continua riorganizzazione ed adattamento del sapere comunicativo. L’*entrenchment* assume che le nostre conoscenze linguistiche siano costantemente aggiornate e riorganizzate attraverso le interazioni sociali. Questo è parte di un più ampio processo di riorganizzazione cognitiva - che prosegue nel corso di tutta la vita - e la cui qualità e traiettoria è condizionata dall’esposizione e dall’uso della lingua, e dall’utilizzo di abilità cognitivo per l’elaborazione del linguaggio. 
-
-L’esposizione (diretta o indiretta, attiva o passiva) al linguaggio è dunque fondante per l’acquisizione di nuove competenze linguistiche (ci concentriamo qui su quelle linguistiche, ma lo stesso processo si occupa anche di altre competenze-extra linguistiche). Le attività di analisi e di annotazione - già ampiamente utilizzate nelle classi di ogni ordine e grado - permettono dunque sia di far **emergere** in maniera più esplicita le **caratteristiche degli elementi linguistici**; sia di **esporre** gli studenti ad **esempi reali d’uso**, vero e proprio carburante del processo di *entrenchment*. È per questo motivo che le attività che proponiamo includono una parte di annotazioni di testi, arricchita da concetti mutuati dalle scoperte della linguistica contemporanea.
-
 ## Le caratteristiche di un buon testo secondo la *Linguistica testuale*
 Quali sono le caratteristiche linguistiche che fanno di un testo scritto un “buon” testo? **Coesione**, **coerenza**, **intenzionalità**, **accettabilità**, **informatività**, **situazionalità** e **intertestualità** sono quelle individuate da Dressler e Beaugrande in *Introduzione alla linguistica testuale* (1984) - puoi trovare una discussione sulla Linguistica Testuale scritta dal linguista Massimo Colella presso <a href="https://www.academia.edu/32120103/Massimo_Colella_Un_introduzione_alla_Linguistica_Testuale_in_Quaderni_del_Laboratorio_di_Linguistica_Scuola_Normale_Superiore_Pisa_11_2012" target="_blank">questo link</a>.
 
@@ -57,6 +47,16 @@ Quando invece la locuzione è usata per descrivere processi, atteggiamenti, azio
 - <i class="fas fa-minus-square" style="color:red"></i> Auspicava una strana soluzione, una **soluzione all'italiana**: ritiriamo le truppe, ma lasciamo 800 uomini per proteggere 30 operatori che assistono nella ricostruzione
 - <i class="fas fa-minus-square" style="color:red"></i> Tipico del **giornalismo all'italiana**: grandi allarmi al vento e poi scarso coraggio di andare fino in fondo
 - <i class="fas fa-minus-square" style="color:red"></i> Di fronte al pranzo esoso, il lavoratore si arrangia con il consueto **fai-da-te all'italiana**: il 16,4% si porta il cibo da casa
+
+## Scrivo, quindi leggo
+
+La linguistica cognitiva spiega - tra le tante cose di cui si occupa - i meccanismi attraverso i quali noi esseri umani apprendiamo il linguaggio (le parole, la sintassi, gli usi, i significati, etc…). Alla base di questo apprendimento c’è un fenomeno chiamato *entrenchment*, che può essere descritto in breve come
+
+> the ongoing reorganization and adaptation of communicative knowledge. Entrenchment posits that our linguistic knowledge is continuously refreshed and reorganized under the influence of social interactions. It is part of a larger, ongoing process of lifelong cognitive reorganization whose course and quality is conditioned by exposure to and use of language, and by the application of cognitive abilities and processes to language.[^2]
+
+> la continua riorganizzazione ed adattamento del sapere comunicativo. L’*entrenchment* assume che le nostre conoscenze linguistiche siano costantemente aggiornate e riorganizzate attraverso le interazioni sociali. Questo è parte di un più ampio processo di riorganizzazione cognitiva - che prosegue nel corso di tutta la vita - e la cui qualità e traiettoria è condizionata dall’esposizione e dall’uso della lingua, e dall’utilizzo di abilità cognitivo per l’elaborazione del linguaggio. 
+
+L’esposizione (diretta o indiretta, attiva o passiva) al linguaggio è dunque fondante per l’acquisizione di nuove competenze linguistiche (ci concentriamo qui su quelle linguistiche, ma lo stesso processo si occupa anche di altre competenze-extra linguistiche). Le attività di analisi e di annotazione - già ampiamente utilizzate nelle classi di ogni ordine e grado - permettono dunque sia di far **emergere** in maniera più esplicita le **caratteristiche degli elementi linguistici**; sia di **esporre** gli studenti ad **esempi reali d’uso**, vero e proprio carburante del processo di *entrenchment*. È per questo motivo che le attività che proponiamo includono una parte di annotazioni di testi, arricchita da concetti mutuati dalle scoperte della linguistica contemporanea.
 
 
 ## Spunti per attività in classe
