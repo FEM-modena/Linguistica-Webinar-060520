@@ -41,7 +41,7 @@ Il percorso in tre passaggi permette l'identificazione e l’analisi di caratter
 Per svolgere l’attività con GSuite abbiamo creato un <a href="https://drive.google.com/open?id=1MPcMaXFO4DoLP81E0M7oX4xWrx4QRy0bmRcemH4_lHE" target="_blank"> template in bianco</a>, che può essere utilizzato - anche riadattandolo secondo le proprie necessità - per l’analisi di qualsiasi testo, sia letterario sia argomentativo. Nella sezione [Spunti per attività in classe](#spunti-per-attività-in-classe) abbiamo inoltre incluso due schede di attività (una con testo argomentativo, una con testo letterario) già pronte per essere utilizzate!
 Nel corso delle prossime settimane creeremo inoltre dei dataset sulla piattaforma  <a href="http://doccano.fem.digital/" target="_blank">doccano</a>, attraverso la quale sarà possibile svolgere l’attività di annotazione in maniera più fluida.
 
-> <i class="fas fa-question-circle" style="color:green"></i> Quali sono le condizioni di testualità su cui i ragazzi hanno più difficoltà? Vorreste pensare insieme a delle attività sui connettivi testuali e sulle espressioni anaforiche? Scrivetecelo nella [nostra Classroom](#la-nostra-classroom)!
+> <i class="fas fa-question-circle" style="color:green"></i> Quali sono le condizioni di testualità su cui i ragazzi hanno più difficoltà? Vorreste pensare insieme a delle attività sui connettivi testuali, espressioni anaforiche, o altro? Scrivetecelo nella [nostra Classroom](#la-nostra-classroom)!
 
 ## Testo scritto e prosodia semantica: un approccio linguistico
 
@@ -86,8 +86,7 @@ Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme oppor
 
 ## Note
 [^1]: da Franzini, M., 2012.
- <a href="https://www.academia.edu/3735690/Occorrenze_collocazioni_e_semantic_prosody_dell_espressione_sostantivo_all_italiana_in_italiano_inglese_e_tedesco_un_indagine_corpus-driven" rel="" target="_blank">“Occorrenze, collocazioni e semantic prosody dell’espressione “sostantivo + all’italiana” in italiano, inglese e tedesco: un’indagine corpus-driven”</a>
- 
+ <a href="https://www.academia.edu/3735690/Occorrenze_collocazioni_e_semantic_prosody_dell_espressione_sostantivo_all_italiana_in_italiano_inglese_e_tedesco_un_indagine_corpus-driven" rel="" target="_blank">“Occorrenze, collocazioni e semantic prosody dell’espressione “sostantivo + all’italiana” in italiano, inglese e tedesco: un’indagine corpus-driven”</a> 
 [^2]: Schmid 2017: prefazione
 
 
