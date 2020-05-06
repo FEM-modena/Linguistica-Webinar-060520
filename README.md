@@ -86,7 +86,8 @@ Soprattutto in questi giorni, la **tecnologia** può rivelarsi un’enorme oppor
 
 ## Note
 [^1]: da Franzini, M., 2012.
- <a href="https://www.academia.edu/3735690/Occorrenze_collocazioni_e_semantic_prosody_dell_espressione_sostantivo_all_italiana_in_italiano_inglese_e_tedesco_un_indagine_corpus-driven" rel="" target="_blank">“Occorrenze, collocazioni e semantic prosody dell’espressione “sostantivo + all’italiana” in italiano, inglese e tedesco: un’indagine corpus-driven”</a> 
+ <a href="https://www.academia.edu/3735690/Occorrenze_collocazioni_e_semantic_prosody_dell_espressione_sostantivo_all_italiana_in_italiano_inglese_e_tedesco_un_indagine_corpus-driven" rel="" target="_blank">“Occorrenze, collocazioni e semantic prosody dell’espressione “sostantivo + all’italiana” in italiano, inglese e tedesco: un’indagine corpus-driven”</a>
+ 
 [^2]: Schmid 2017: prefazione
 
 
